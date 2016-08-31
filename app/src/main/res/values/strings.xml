@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BarCodeApplication</string>
+    <string name="errorCode">Could Not Set Up the Detector</string>
+</resources>
