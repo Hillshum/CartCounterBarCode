@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         ImageView myImageView = (ImageView) findViewById(R.id.imgview);
         Bitmap myBitmap = BitmapFactory.decodeResource(
                 getApplicationContext().getResources(),
-                R.mipmap.puppy);
+                R.drawable.puppy);
         myImageView.setImageBitmap(myBitmap);
 
 
